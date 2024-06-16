@@ -2,7 +2,6 @@
 This repository contains a RAG Model. The model takes a text  question as input and generates the step-by-step solution and final answer by leveraging the capabilities of Claude, HaiKu, and llama-index.
 
 
-Sure, here's a README file for the provided code:
 Math Question Answering with Claude, HaiKu, and llama-index
 This repository contains code for building a math question answering system using Claude (a large language model from Anthropic),
 HaiKu (an open-source toolkit for building neural retrievers), and llama-index (a library for generating embeddings and indices over text data).
